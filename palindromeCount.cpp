@@ -14,7 +14,7 @@ using namespace std;
 
 bool isPalin(char *,int , int );
 
-int main()
+int mainPalindromeCount()
 {
 	char exp[] = "abcbaxyxpqpkstytblkjhjkl";
 	int count=0;

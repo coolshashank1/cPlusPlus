@@ -29,7 +29,7 @@ bool isSubstring(char *, char *);
 bool flag;
 char *init;
 
-int main()
+int mainSubstr()
 {
 
 	char str1[] = "apple";

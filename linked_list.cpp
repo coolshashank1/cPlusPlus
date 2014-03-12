@@ -202,7 +202,7 @@ void list::delMid(int pos)
 	display();
 }
 
-int main()
+int main78()
 {
 	int choice;
 	int data_to_be_inserted;

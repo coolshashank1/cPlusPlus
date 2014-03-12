@@ -12,7 +12,7 @@
 
 using namespace std;
 
-int mainTwo()
+int mainTwoArrays()
 {
 	int array1[20], array2[20];
 	int size;
